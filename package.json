@@ -1,0 +1,22 @@
+{
+  "name": "generator-tonyangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "generator-common": "^0.2.0",
+    "lodash": "^3.10.1",
+    "yeoman-generator": "^0.22.2",
+    "yo": "^1.5.1",
+    "yosay": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
